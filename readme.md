@@ -1,0 +1,1 @@
+image: rmdc/node-awscli
